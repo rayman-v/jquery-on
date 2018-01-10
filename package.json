@@ -1,6 +1,6 @@
 {
   "name": "jquery-on",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "main": "jquery.on.min.js",
   "description": "a jquery extend function '$.on' for all eventListener",
   "repository": {
