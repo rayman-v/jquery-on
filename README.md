@@ -44,4 +44,4 @@ $.on({
 
 ### Explain
 - All selectors and event just pass to $.fn.on function;
-- Read the souce file and give me some advices [jquery.on.js]("https://github.com/rayman-v/jquery-on/blob/master/jquery.on.js");
+- Read the souce file and give me some advices [jquery.on.js]("https://github.com/rayman-v/jquery-on");
