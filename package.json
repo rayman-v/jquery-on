@@ -1,0 +1,15 @@
+{
+  "name": "on",
+  "version": "1.0.0",
+  "description": "a jquery extend function '$.on' for all eventListener",
+  "main": "index.js",
+  "git repository": "",
+  "keywords": [
+    "jquery-plugin",
+    "ecosystem:jquery",
+    "eventListener",
+    "on"
+  ],
+  "author": "rayman-v",
+  "license": "MIT"
+}
