@@ -1,19 +1,22 @@
 {
-  "name": "on",
+  "name": "jquery-on",
   "version": "0.1.2",
   "description": "a jquery extend function '$.on' for all eventListener",
-  "main": "index.js",
-  "repository": "https://github.com/rayman-v/jquery-on",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rayman-v/jquery-on"
+  },
   "keywords": [
     "jquery-plugin",
     "ecosystem:jquery",
     "eventListener",
-    "on"
+    "on",
+    "jquery-on"
   ],
   "author": "rayman-v",
   "email": "lvrunjia@qq.com",
   "license": "MIT",
   "dependencies": {
-    "jquery": ">=1.3"
+    "jquery": ">=1.7"
   }
 }
