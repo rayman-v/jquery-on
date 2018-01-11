@@ -36,7 +36,7 @@ $.on({
   '.li': {
     parent: '#ul', // Event Delegation
     click: function(event) {
-      console.log('li input or change');
+      console.log('li click');
     }
   }
 });
@@ -44,4 +44,4 @@ $.on({
 
 ### Explain
 - All selectors and event just pass to $.fn.on function;
-- Read the souce file and give me some advices [jquery.on.js]("https://github.com/rayman-v/jquery-on");
+- Read the souce file and give me some advices;
