@@ -2,7 +2,10 @@
 a jquery extend function '$.on' for all eventListener
 
 ### Usage
-- include `jquery.js` and `jquery.on.min.js`
+- run `npm install jquery-on --save` or download `jquery.on.min.js`
+- include `jquery.js` and `jquery.on.min.js` in your `html` file
+
+### Example
 - html
 ```
 <div id="a">aaaaaaa</div>
